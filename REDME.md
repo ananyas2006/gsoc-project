@@ -1,4 +1,4 @@
-<h1> 1st repository<h1>
+#1st repository
 
-<p>i am ananya s and i am studing n ubdt college of engineering<p>
+i am ananya s and i am studing n ubdt college of engineering
 
